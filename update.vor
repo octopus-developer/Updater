@@ -1,0 +1,8 @@
+({
+    [app_info] ({
+        [version] = ["1.0.2"];
+        [code] = [102];
+        [description] = ["Versão de teste!"];
+        [target] = ["https://raw.githubusercontent.com/magicstudiogames/Updater/refs/heads/main/"];
+    });
+});
