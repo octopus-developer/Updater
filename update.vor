@@ -2,7 +2,7 @@
     [app_info] ({
         [code] = [100];
         [content] = ["Esta é uma versão de teste do aplicativo, destinada exclusivamente para fins de avaliação interna.\nNesta atualização, foram realizadas diversas melhorias de desempenho, ajustes de interface e correções de bugs reportados nas versões anteriores.\nUsuários que instalarem esta versão devem considerar que ela pode conter recursos experimentais ainda em fase de testes, e que o feedback sobre possíveis problemas ou sugestões de melhorias é extremamente importante para a evolução do projeto.\n\nObrigado por contribuir para tornar o aplicativo ainda melhor!"];
-        [target] = ["https://github.com/magicstudiogames/Updater/blob/main/release/"];
+        [target] = ["https://raw.githubusercontent.com/magicstudiogames/Updater/refs/heads/main/release/"];
         [version] = ["1.0.0"];
     });
 });
