@@ -1,8 +1,8 @@
 ({
     [app_info] ({
-        [code] = [103];
-        [content] = ["- Novo recurso implementado com layout modernizado.\n- Menu reorganizado com as seguintes opções:\n\t• Conta – Gerencie seu perfil e dados da conta;\n\t• Contribuintes – Consulte os colaboradores do projeto;\n\t• Explorar – Descubra novos recursos e conteúdos;\n\t• Recompensas – Acompanhe e resgate suas recompensas;\n\t• Notificações – Veja os avisos e atualizações recentes;\n\t• Suporte – Acesse ajuda e suporte ao usuário;\n\t• Sobre – Informações sobre o aplicativo e créditos;\n\t• Sair – Encerre sua sessão de forma segura;\n- Exibição de ícones e descrições detalhadas para cada menu;\n- Prevenção de toques falsos durante rolagem do menu (clique seguro);\n- Melhorias de acessibilidade com suporte a performClick();\n- Correções visuais e aprimoramentos gerais de usabilidade."];
+        [code] = [104];
+        [content] = ["- Melhorias no carregamento e desempenho geral do aplicativo;\n- Otimização do tratamento de caracteres especiais no conteúdo (\\n, \\t e outros);\n- Ajustes finos no layout e nas animações de transição;\n- Correção de pequenos bugs relacionados à navegação do menu;\n- Atualização do sistema de clique seguro para evitar toques acidentais;\n- Revisão e atualização das traduções e textos exibidos;\n- Preparação de base para novos recursos das próximas versões."];
         [target] = ["https://raw.githubusercontent.com/magicstudiogames/Updater/refs/heads/main/release/"];
-        [version] = ["1.0.3"];
+        [version] = ["1.0.4"];
     });
 });
