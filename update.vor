@@ -1,8 +1,0 @@
-({
-    [app_info] ({
-        [code] = [104];
-        [content] = ["- Melhorias no carregamento e desempenho geral do aplicativo;\n- Otimização do tratamento de caracteres especiais no conteúdo (\\n, \\t e outros);\n- Ajustes finos no layout e nas animações de transição;\n- Correção de pequenos bugs relacionados à navegação do menu;\n- Atualização do sistema de clique seguro para evitar toques acidentais;\n- Revisão e atualização das traduções e textos exibidos;\n- Preparação de base para novos recursos das próximas versões."];
-        [target] = ["https://raw.githubusercontent.com/magicstudiogames/Updater/refs/heads/main/release/"];
-        [version] = ["1.0.4"];
-    });
-});
