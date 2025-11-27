@@ -1,0 +1,6 @@
+{
+  "code": 101,
+  "message": "Descrição da atualização",
+  "path": "https://raw.githubusercontent.com/octopus-developer/Updater/refs/heads/main/discountstore/app-release.apk",
+  "version": "1.0.1"
+}
