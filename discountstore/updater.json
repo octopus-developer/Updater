@@ -1,6 +1,7 @@
 {
   "code": 101,
-  "message": "Nova versão atualizada!",
+  "message": "O sistema de atualização contará com um título que define uma Nova atualização ou Correções, mesmo que você receba uma das duas, sempre mantenha o aplicativo atualizado!",
   "path": "https://raw.githubusercontent.com/octopus-developer/Updater/refs/heads/main/discountstore/app-release.apk",
+  "title": "Nova atualização",
   "version": "1.0.1"
 }
