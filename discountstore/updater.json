@@ -1,7 +1,7 @@
 {
-  "code": 103,
-  "message": "Aqui vai uma versão mais “da hora” e chamativa:\n\nAgora ficou ainda melhor!\nNesta atualização, adicionamos o novo sistema de solicitação de cartões.\nVocê pode escolher um cartão, ver todos os detalhes e — se tiver pontos suficientes — enviar sua solicitação na hora.\n\nSimples, rápido e direto ao ponto!",
+  "code": 104,
+  "message": "Correções importantes foram feita na interface, deixando a interface mais fácil de usar",
   "path": "https://raw.githubusercontent.com/octopus-developer/Updater/refs/heads/main/discountstore/app-release.apk",
-  "title": "Versão 1.0.3",
-  "version": "1.0.3"
+  "title": "Correções [1.0.4]",
+  "version": "1.0.4"
 }
