@@ -1,7 +1,7 @@
 {
-  "code": 101,
-  "message": "O sistema de atualização contará com um título que define uma Nova atualização ou Correções, mesmo que você receba uma das duas, sempre mantenha o aplicativo atualizado!",
+  "code": 102,
+  "message": "Aqui vai uma versão mais “da hora” e chamativa:\n\nAgora ficou ainda melhor!\nNesta atualização, adicionamos o novo sistema de solicitação de cartões.\nVocê pode escolher um cartão, ver todos os detalhes e — se tiver pontos suficientes — enviar sua solicitação na hora.\n\nSimples, rápido e direto ao ponto!",
   "path": "https://raw.githubusercontent.com/octopus-developer/Updater/refs/heads/main/discountstore/app-release.apk",
-  "title": "Nova atualização",
-  "version": "1.0.1"
+  "title": "Versão 1.0.2",
+  "version": "1.0.2"
 }
