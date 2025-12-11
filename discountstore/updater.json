@@ -1,7 +1,7 @@
 {
-  "code": 105,
+  "code": 106,
   "message": "Nova interface, com ajustes e melhorias no design\n\nAgora o usuário pode usar uma chave Pix ou endereço PayPal para receber o pagamento.",
   "path": "https://raw.githubusercontent.com/octopus-developer/Updater/refs/heads/main/discountstore/app-release.apk",
-  "title": "Atualização [v1.0.5]",
-  "version": "1.0.5"
+  "title": "Atualização [v1.0.6]",
+  "version": "1.0.6"
 }
