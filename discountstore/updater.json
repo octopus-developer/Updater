@@ -1,7 +1,7 @@
 {
-  "code": 108,
-  "message": "Correções de erros foram feitas!",
+  "code": 110,
+  "message": "Melhoria no sistema de autenticação.",
   "path": "https://raw.githubusercontent.com/octopus-developer/Updater/refs/heads/main/discountstore/app-release.apk",
-  "title": "Correção [v1.0.8]",
-  "version": "1.0.8"
+  "title": "Correção [v1.1.0]",
+  "version": "1.1.0"
 }
