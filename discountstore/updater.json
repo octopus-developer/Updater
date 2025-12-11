@@ -1,7 +1,7 @@
 {
-  "code": 106,
-  "message": "Nova interface, com ajustes e melhorias no design\n\nAgora o usuário pode usar uma chave Pix ou endereço PayPal para receber o pagamento.",
+  "code": 107,
+  "message": "O sistema de atualizar o perfil foi reconfigurado, agora o usuário pode clicar na imagem para escolher um emoji para usar no perfil, além de poder usar chave Pix ou endereço do PayPal para receber pagamentos.\n\nNa próxima versão será refeito o método de solicitar os pagamentos, pois ainda precisa de revisões para funcionar como desejado!",
   "path": "https://raw.githubusercontent.com/octopus-developer/Updater/refs/heads/main/discountstore/app-release.apk",
-  "title": "Atualização [v1.0.6]",
-  "version": "1.0.6"
+  "title": "Correção [v1.0.7]",
+  "version": "1.0.7"
 }
